@@ -1,0 +1,39 @@
+body {
+  background-color: #9c89b8;
+  margin: auto 0;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#imagem_perfil {
+  width: 100%;
+}
+
+.subtitulo_primario {
+  color: white;
+  text-align: center;
+}
+
+.subtitulo_secundario {
+  color: rgb(234,679,234);
+  text-align: center;
+}
+
+#etiqueta_formulario {
+  color: pink;
+}
+
+li {
+  color: white;
+}
+
+#item {
+  color: black;
+}
+
+.item_final {
+  color: yellow;
+}
