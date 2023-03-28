@@ -1,25 +1,40 @@
 body {
   background-color: #9c89b8;
   margin: auto 0;
+  font-family: 'Delicious Handrawn', cursive;
 }
 
 h1 {
   color: white;
   text-align: center;
+  font-weight: 400;
+  font-size: 30px;
+  text-transform: uppercase;
 }
 
 #imagem_perfil {
   width: 100%;
 }
 
+.minibio {
+  text-align: center;
+  color: rgb(234,679,234);
+  line-height: 2;
+  border: 2px;
+  border-style: double;
+  border-color: black;
+}
+
 .subtitulo_primario {
   color: white;
   text-align: center;
+  font-weight: 300;
 }
 
 .subtitulo_secundario {
   color: rgb(234,679,234);
   text-align: center;
+  font-weight: 300;
 }
 
 #etiqueta_formulario {
@@ -37,3 +52,4 @@ li {
 .item_final {
   color: yellow;
 }
+
