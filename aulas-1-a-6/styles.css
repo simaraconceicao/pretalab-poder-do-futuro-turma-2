@@ -1,7 +1,7 @@
-body {
+* {
   background-color: #9c89b8;
   margin: auto 0;
-  font-family: 'Delicious Handrawn', cursive;
+  font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
@@ -20,9 +20,6 @@ h1 {
   text-align: center;
   color: rgb(234,679,234);
   line-height: 2;
-  border: 2px;
-  border-style: double;
-  border-color: black;
 }
 
 .subtitulo_primario {
@@ -53,3 +50,29 @@ li {
   color: yellow;
 }
 
+table {
+  text-align: center;
+  border-size: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+th {
+  height: 100px;
+  padding: 4px;
+  border-size: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+td {
+  width: 30%;
+  padding: 6px;
+  border-size: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+tr {
+  height: 80px;
+}
