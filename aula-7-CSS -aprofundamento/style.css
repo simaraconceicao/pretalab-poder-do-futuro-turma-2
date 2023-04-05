@@ -1,0 +1,17 @@
+* {
+  background-color: pink;
+  margin: 0 auto;
+}
+
+.container-mae {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  width: 80%;
+}
+
+.filha {
+  width: 30%;
+  line-height: 40px;
+  text-align: center;
+}
