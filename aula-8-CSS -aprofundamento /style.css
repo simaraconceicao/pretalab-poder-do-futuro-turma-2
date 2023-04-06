@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#menu {
+  background-color: #BE89CB;
+}
+
+#menu ul {
+  display:flex;
+  padding: 30px;
+  justify-content: right;
+  align-items: flex-end;
+  gap: 150px;
+}
+
+#menu li a {
+  display: flex;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#menu li {
+  list-style: none;
+}
