@@ -7,13 +7,20 @@ Slides:
 
 [HTML](https://docs.google.com/presentation/d/1XotmwSBMdDrOJWKCqb3MCC0trn6Sn2uEfM-c479-4LU/edit?usp=sharing)
 <br>
+
 [CSS](https://docs.google.com/presentation/d/1cWZA_oX9rnQA2r-lm8f2rvnYa2V42lPHZQFipgEtQQE/edit?usp=sharing)
+
+Dontpad:
+[NOSSO DONTPAD](https://dontpad.com/html-css-projeto-final)
 
 O nosso projeto final será um portfólio feito em HTML, CSS e hospedado no netlify.
 
 Para o módulo I usaremos as seguintes tecnologias:
+
 ✓		Visual Studio Code como ambiente de desenvolvimento.
+
 ✓		Github como ferramenta de versionamento.
+
 ✓		Netlify para realizarmos o Deploy da nossa aplicação.
 
 <br>
